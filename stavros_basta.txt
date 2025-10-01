@@ -1,0 +1,15 @@
+Hello everyone! My name is Stavros Basta, and I currently work as a Network Administrator specializing in Cloud and On-Premises infrastructure at ServIT Group, where I design, implement, and manage secure network infrastructures for clients while ensuring optimal performance and data protection. In this role, I configure and maintain routers, firewalls, and switches, diagnose complex network issues across Windows and macOS platforms, and collaborate with cross-functional teams to deliver high-quality managed IT services. I am pursuing a Masters of Science in Cybersecurity with an expected graduation date of Fall 2026, and I'm proud to maintain a 4.0 GPA while earning President's List recognition.
+
+Throughout my academic and professional journey, I've achieved several significant certifications that demonstrate my commitment to the cybersecurity field, including advanced credentials such as the GIAC Security Leadership (GSLC), GIAC Industrial Cyber Security Professional (GICSP), Certified Information Security Manager (ISACA CISM), and the challenging Certified Penetration Testing Professional (CPENT) which required a 24-hour exam. Additionally, I hold numerous CompTIA certifications spanning security, networking, and cloud technologies, including SecurityX, CySA+, PenTest+, and various professional-level stackable credentials. Beyond certifications, I'm particularly excited about my recent publication achievements, "Mathematics in Cybersecurity" through Wiley Publishing, and "Cybersecurity in Industrial Control Systems" through Amazon Publishing. I also serve as a member of the CISM Practice Analysis Task Force and as a GIAC/SANS Advisory board member, which allows me to contribute to the broader cybersecurity community.
+
+I see myself applying knowledge from this course by leveraging both my practical experience in network security and my comprehensive theoretical foundation to enhance my current role's strategic decision-making processes, particularly in developing more robust security frameworks for clients and advancing my goal of becoming a cybersecurity leader who can bridge the gap between technical implementation and business strategy. The insights gained from this course will directly complement my hands-on experience with secure network design and my published research in cybersecurity mathematics and industrial control systems, ultimately preparing me to take on more senior cybersecurity leadership roles upon graduation, where I can drive organizational security initiatives and mentor the next generation of cybersecurity professionals.
+
+References
+
+Basta, A., Basta, S., & Delong, S. (2025). Mathematics in cybersecurity. Wiley. Retrieved from https://www.wiley.com/en-us/Mathematics+in+Cybersecurity-p-9781394304769
+
+Basta, S., & Anwar, W. (2025). Cybersecurity in industrial control systems. Amazon Publishing. Retrieved from https://www.amazon.com/Cybersecurity-Industrial-Control-Systems-Stavros-ebook/dp/B0FN6NFYHK/ref=sr_1_1
+
+Regards,
+
+Stavros
