@@ -4,7 +4,7 @@ Throughout my academic and professional journey, I've achieved several significa
 
 I see myself applying knowledge from this course by leveraging both my practical experience in network security and my comprehensive theoretical foundation to enhance my current role's strategic decision-making processes, particularly in developing more robust security frameworks for clients and advancing my goal of becoming a cybersecurity leader who can bridge the gap between technical implementation and business strategy. The insights gained from this course will directly complement my hands-on experience with secure network design and my published research in cybersecurity mathematics and industrial control systems, ultimately preparing me to take on more senior cybersecurity leadership roles upon graduation, where I can drive organizational security initiatives and mentor the next generation of cybersecurity professionals.
 
-References
+References:
 
 Basta, A., Basta, S., & Delong, S. (2025). Mathematics in cybersecurity. Wiley. Retrieved from https://www.wiley.com/en-us/Mathematics+in+Cybersecurity-p-9781394304769
 
